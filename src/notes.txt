@@ -1,0 +1,11 @@
+Groovy needs java.
+
+Groovy has dynamically typed variables.
+
+Everything in groovy is an object.
+
+Groovyh decimal accuracy is pretty big.
+
+There are different types of string - within a single quoute a text will be treated literally (without special values like \n) and within double quotes it will be handle variables.
+
+In groovy we always pass parameters to functions as values.
